@@ -1,0 +1,26 @@
+{
+  "name": "playground-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://scottfwalter:125ab7f1470f57dbefb612564c90e32b3308fb86@github.com/scottfwalter/playground-rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottfwalter/playground-rxjs/issues"
+  },
+  "homepage": "https://github.com/scottfwalter/playground-rxjs#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "rxjs": "~6.6.2"
+  }
+}
